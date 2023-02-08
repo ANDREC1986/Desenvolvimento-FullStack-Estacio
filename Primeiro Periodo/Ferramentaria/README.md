@@ -1,5 +1,5 @@
-# Read-me do trabalho de certificação intermediária de curso! !!!
-# NÃO CONCLUIDO !!!, devido a não participação dos outros 5 membros do Grupo, apenas oque desenvolvi sozinho próximo ao prazo expirar.
+# Read-me do trabalho de certificação intermediária de curso!
+# !!! NÃO CONCLUIDO !!!, devido a não participação dos outros 5 membros do Grupo, apenas oque desenvolvi sozinho próximo ao prazo expirar.
 
 #### Se você tem dúvidas de como utilizar o GitHub, acesse este conteúdo aprenda a colaborar com um projeto! <a href="Guia Básico GitHub.md">CLICANDO AQUI</a>
 #### O Professor pediu que o trabalho fosse desenvolvido utilizando o que foi apresentado no pêriodo, então a principio não devemos desenvolver utilizando bancos de dados, devemos utilizar as bibliotecas apresentadas (Pandas, Faker, CSV etc..) (Tkinter ou PysimpleGUI para Interface Gráfica)
